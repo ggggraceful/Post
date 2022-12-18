@@ -101,3 +101,6 @@ gradle-app.setting
 
 ### application ###
 #application.yml
+
+### idea ###
+.idea
